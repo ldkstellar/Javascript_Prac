@@ -1,0 +1,12 @@
+{
+  "name": "multithreadjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mutiThread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leedongkyu",
+  "license": "ISC",
+  "type": "module"
+}

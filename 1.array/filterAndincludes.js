@@ -11,3 +11,5 @@ let myName = 'leedongkyu';
 let myResult = myName.includes('lee');// 포함되어있으면 true 포함되지 않으면 false를 출력한다.
 
 console.log(myResult);
+
+export default filterAndincludes;
